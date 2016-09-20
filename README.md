@@ -1,6 +1,7 @@
 # ⌘英かな
 
 [@ammowt](https://twitter.com/ammowt) さんの開発された[⌘英かな](https://ei-kana.appspot.com/)を、ammowtさんの許可を頂いて改変、再配布しています。
+
 本家リポジトリ→https://github.com/iMasanari/cmd-eikana
 
 ## INSTALL
