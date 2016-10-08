@@ -4,12 +4,7 @@
 
 本家リポジトリ→https://github.com/iMasanari/cmd-eikana
 
-## INSTALL
+## SEE ALSO
 
-チェックアウトしてXcodeでビルドを行なってください。
-
-## TODO
-
-* 1キーでIME on/offをトグルするモードの追加
-* Command以外のキーを使えるように設定変更可能にする
-* ビルドしたバイナリの公開?
+コンセプトを引き継いだ別アプリを開発しています → [IME Switcher](https://github.com/kan/ime-switcher)
+なお、2016年10月現在、本家⌘英かなでもこのリポジトリの改変で実現したかった機能は利用可能です。
